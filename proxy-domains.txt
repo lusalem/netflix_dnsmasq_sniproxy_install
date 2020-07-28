@@ -74,11 +74,14 @@ ifconfig.co
 omtrdc.net
 sling.com
 movetv.com
-happyon.jp
-abema.tv
-hulu.jp
 optus.com.au
 optusnet.com.au
+disneyplus.com
+bamgrid.com
+dssott.com
+dhappyon.jp
+abema.tv
+hulu.jp
 gamer.com.tw
 bahamut.com.tw
 hinet.net
